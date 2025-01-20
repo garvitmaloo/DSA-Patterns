@@ -1,0 +1,5 @@
+1. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)
+2. [Printing longest increasing subsequence](https://takeuforward.org/data-structure/printing-longest-increasing-subsequence-dp-42/)
+3. [Largest divisible subset](https://leetcode.com/problems/largest-divisible-subset/description/)
+4. [Longest string chain](https://leetcode.com/problems/longest-string-chain/description/)
+5. [Number of longest increasing subsequences](https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/)

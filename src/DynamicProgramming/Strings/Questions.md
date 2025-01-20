@@ -1,0 +1,6 @@
+1. [Longest common subsequence](https://leetcode.com/problems/longest-common-subsequence/description/)
+2. [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/description/)
+3. [Minimum Insertions to make string palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/description/)
+4. [Shortest common super sequence](https://leetcode.com/problems/shortest-common-supersequence/description/)
+5. [Distinct subsequences](https://leetcode.com/problems/distinct-subsequences/description/)
+6. [Edit Distance](https://leetcode.com/problems/edit-distance/description/)
